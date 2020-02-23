@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://e.coding.net/okex/</id>
+    <title>Go.Top</title>
+    <updated>2020-02-23T02:53:17.428Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://e.coding.net/okex/"/>
+    <link rel="self" href="https://e.coding.net/okex/atom.xml"/>
+    <subtitle>Focus on Blockchain</subtitle>
+    <logo>https://e.coding.net/okex/images/avatar.png</logo>
+    <icon>https://e.coding.net/okex/favicon.ico</icon>
+    <rights>All rights reserved 2020, Go.Top</rights>
+</feed>
