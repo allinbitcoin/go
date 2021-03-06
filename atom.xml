@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://allinbitcoin.github.io/go</id>
     <title>GoTop Capital</title>
-    <updated>2020-12-05T09:00:39.561Z</updated>
+    <updated>2021-03-06T04:19:34.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://allinbitcoin.github.io/go"/>
     <link rel="self" href="https://allinbitcoin.github.io/go/atom.xml"/>
@@ -10,5 +10,5 @@
 </subtitle>
     <logo>https://allinbitcoin.github.io/go/images/avatar.png</logo>
     <icon>https://allinbitcoin.github.io/go/favicon.ico</icon>
-    <rights>All rights reserved 2020, GoTop Capital</rights>
+    <rights>All rights reserved 2021, GoTop Capital</rights>
 </feed>
